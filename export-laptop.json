@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-02-14T10:00:19.021-00:00",
+	"CreationDate" : "2023-02-17T09:24:17.945-00:00",
 	"Sources" : 
 	[
 		{
@@ -16,7 +16,13 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
+					"PackageIdentifier" : "OpenWhisperSystems.Signal"
+				},
+				{
 					"PackageIdentifier" : "ShareX.ShareX"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
 				},
 				{
 					"PackageIdentifier" : "Docker.DockerDesktop"
@@ -52,6 +58,9 @@
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
+					"PackageIdentifier" : "Mozilla.Thunderbird"
+				},
+				{
 					"PackageIdentifier" : "Notepad++.Notepad++"
 				},
 				{
@@ -73,10 +82,16 @@
 					"PackageIdentifier" : "JetBrains.Toolbox"
 				},
 				{
+					"PackageIdentifier" : "MuhammedKalkan.OpenLens"
+				},
+				{
 					"PackageIdentifier" : "Balena.Etcher"
 				},
 				{
 					"PackageIdentifier" : "Notion.Notion"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.BuildTools"
 				},
 				{
 					"PackageIdentifier" : "Insomnia.Insomnia"
@@ -85,13 +100,22 @@
 					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
+					"PackageIdentifier" : "stedolan.jq"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS"
+				},
+				{
+					"PackageIdentifier" : "voidtools.Everything"
 				},
 				{
 					"PackageIdentifier" : "GoLang.Go.1.20"
@@ -103,13 +127,22 @@
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
+					"PackageIdentifier" : "Oracle.VirtualBox"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "tailscale.tailscale"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
 					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+				},
+				{
+					"PackageIdentifier" : "stnkl.EverythingToolbar"
 				},
 				{
 					"PackageIdentifier" : "VideoLAN.VLC"
@@ -121,16 +154,25 @@
 					"PackageIdentifier" : "Nvidia.PhysX"
 				},
 				{
+					"PackageIdentifier" : "Nvidia.Broadcast"
+				},
+				{
+					"PackageIdentifier" : "ShiningLight.OpenSSL"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2005.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsSDK"
 				}
 			],
 			"SourceDetails" : 
