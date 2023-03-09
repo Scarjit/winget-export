@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-02-22T12:38:21.855-00:00",
+	"CreationDate" : "2023-03-09T13:14:38.205-00:00",
 	"Sources" : 
 	[
 		{
@@ -20,6 +20,9 @@
 				},
 				{
 					"PackageIdentifier" : "ShareX.ShareX"
+				},
+				{
+					"PackageIdentifier" : "dbeaver.dbeaver"
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord"
@@ -47,6 +50,9 @@
 				},
 				{
 					"PackageIdentifier" : "REALiX.HWiNFO"
+				},
+				{
+					"PackageIdentifier" : "ImageMagick.ImageMagick"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge"
@@ -112,7 +118,7 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
+					"PackageIdentifier" : "GrafanaLabs.Grafana.Enterprise"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
@@ -124,10 +130,10 @@
 					"PackageIdentifier" : "VSCodium.VSCodium"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerShell"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "DBBrowserForSQLite.DBBrowserForSQLite"
@@ -143,6 +149,9 @@
 				},
 				{
 					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
 					"PackageIdentifier" : "stnkl.EverythingToolbar"
@@ -179,6 +188,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
