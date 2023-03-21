@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-03-10T12:16:21.718-00:00",
+	"CreationDate" : "2023-03-21T09:25:04.945-00:00",
 	"Sources" : 
 	[
 		{
@@ -55,6 +55,9 @@
 					"PackageIdentifier" : "ImageMagick.ImageMagick"
 				},
 				{
+					"PackageIdentifier" : "ImageMagick.ImageMagick"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
@@ -94,6 +97,9 @@
 					"PackageIdentifier" : "Watfaq.PowerSession"
 				},
 				{
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+				},
+				{
 					"PackageIdentifier" : "MuhammedKalkan.OpenLens"
 				},
 				{
@@ -130,6 +136,9 @@
 					"PackageIdentifier" : "VSCodium.VSCodium"
 				},
 				{
+					"PackageIdentifier" : "GoLang.Go.1.20"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
@@ -137,6 +146,9 @@
 				},
 				{
 					"PackageIdentifier" : "DBBrowserForSQLite.DBBrowserForSQLite"
+				},
+				{
+					"PackageIdentifier" : "Logitech.GHUB"
 				},
 				{
 					"PackageIdentifier" : "Oracle.VirtualBox"
@@ -155,9 +167,6 @@
 				},
 				{
 					"PackageIdentifier" : "stnkl.EverythingToolbar"
-				},
-				{
-					"PackageIdentifier" : "GoLang.Go.1.20"
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS"
