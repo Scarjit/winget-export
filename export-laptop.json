@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-03-21T09:25:04.945-00:00",
+	"CreationDate" : "2023-04-04T14:01:38.259-00:00",
 	"Sources" : 
 	[
 		{
@@ -44,6 +44,9 @@
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "acaudwell.Gource"
 				},
 				{
 					"PackageIdentifier" : "GnuPG.Gpg4win"
@@ -136,6 +139,9 @@
 					"PackageIdentifier" : "VSCodium.VSCodium"
 				},
 				{
+					"PackageIdentifier" : "JetBrains.ReSharper"
+				},
+				{
 					"PackageIdentifier" : "GoLang.Go.1.20"
 				},
 				{
@@ -155,9 +161,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
-				},
-				{
-					"PackageIdentifier" : "tailscale.tailscale"
 				},
 				{
 					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
@@ -185,6 +188,9 @@
 				},
 				{
 					"PackageIdentifier" : "ShiningLight.OpenSSL"
+				},
+				{
+					"PackageIdentifier" : "tailscale.tailscale"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
