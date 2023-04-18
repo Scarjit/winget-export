@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-04T14:01:38.259-00:00",
+	"CreationDate" : "2023-04-14T13:18:12.126-00:00",
 	"Sources" : 
 	[
 		{
@@ -85,6 +85,9 @@
 					"PackageIdentifier" : "PostgreSQL.PostgreSQL"
 				},
 				{
+					"PackageIdentifier" : "RustDesk.RustDesk"
+				},
+				{
 					"PackageIdentifier" : "Rustlang.Rustup"
 				},
 				{
@@ -139,9 +142,6 @@
 					"PackageIdentifier" : "VSCodium.VSCodium"
 				},
 				{
-					"PackageIdentifier" : "JetBrains.ReSharper"
-				},
-				{
 					"PackageIdentifier" : "GoLang.Go.1.20"
 				},
 				{
@@ -167,6 +167,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.ReSharper"
 				},
 				{
 					"PackageIdentifier" : "stnkl.EverythingToolbar"
